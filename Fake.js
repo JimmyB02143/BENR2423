@@ -33,8 +33,6 @@ client.connect(async err => {
                     })
                     .then(result => {
                         console.log(result);
-                        
-                    
                     });
                 }
             })
